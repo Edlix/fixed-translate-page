@@ -1,0 +1,11 @@
+.title {
+    margin: auto;
+    width: 50%;
+}
+.box {
+    margin: auto;
+    border: gray;
+    border-radius: 2px;
+    width: 50%;
+    padding: 10px;
+}
